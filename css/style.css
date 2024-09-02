@@ -2,4 +2,13 @@ body{
     background-color: coral;
     font-size: 30px;
     margin: 50px;
+    padding: 0 20px 20px 20px;;
+    border: 10px solid rgb(242, 240, 239);
+    text-shadow: 2px 2px 1px black;
+    background-image: repeating-linear-gradient( rgb(251, 131, 2), rgb(231, 113, 74) 10%, rgb(216, 156, 97) 20% );;
+    img {
+        display: block;
+        margin: 0 auto;
+      }
 }
+
